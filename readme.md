@@ -46,7 +46,7 @@ Make the following changes in a development environment.
 1. Create the kapp "SDK Course" for purpose of this course
 2. Add Form Attribute Definition 
 - Add "Owning Team"
-3. Import the following forms from "..\sdk-presentation\sdk_interactive_hand_on_deep_dive\sdk_course_kapp\import_forms":
+3. Import the following forms from "..\kinverge-2024\sdk_interactive_hand_on_deep_dive\sdk_course_kapp\import_forms":
 - general-facilities-request
 - general-finance-request
 - general-hr-request
